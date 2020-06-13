@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageButton
+        android:id="@+id/b1"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:text="B1"
+        android:src="@drawable/baseline_all_inclusive_black_18dp"
+        />
+    <ImageButton
+        android:id="@+id/b2"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:text="B2"
+        android:src="@drawable/baseline_view_list_black_18dp"
+        />
+
+    <ImageButton
+        android:id="@+id/b3"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:text="B3"
+        android:src="@drawable/baseline_timer_black_18dp"
+        />
+
+    <ImageButton
+        android:id="@+id/b4"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:text="B4"
+        android:src="@drawable/baseline_today_black_18dp"
+        />
+
+    <ImageButton
+        android:id="@+id/b5"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:text="B5"
+        android:src="@drawable/baseline_insert_chart_outlined_black_18dp"
+        />
+
+</LinearLayout>
